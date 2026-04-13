@@ -28,9 +28,3 @@ iOS task app in SwiftUI for iPhone 14. **Complete implementation** of the projec
 
 ---
 
-## Final submission
-
-Submit the **git repository link** that contains this project.
-
-1. Push the latest code: `git add .` → `git commit -m "Complete implementation"` → `git push`
-2. Submit the repository URL in the assignment.
