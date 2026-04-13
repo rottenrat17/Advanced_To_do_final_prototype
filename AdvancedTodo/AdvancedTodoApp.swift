@@ -5,7 +5,7 @@ import SwiftUI
 @main
 struct AdvancedTodoApp: App {
     @State private var showLaunch = true
-    @State private var appState = AppState()
+    @State private var appState = AppState() 
 
     var body: some Scene {
         WindowGroup {
